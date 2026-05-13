@@ -1,7 +1,10 @@
 # About me
 
-Current MGIS student at Michigan Technological University.\
-Aspiring data scientist with a focus on ornithological research and mapping.
+Masters in Geographic Information Science at Michigan Technological University.\
+
+Soon to be PhD student at Michigan Technological University.\
+
+Aspiring data scientist with a focus on wildlife conservation and mapping.
 
 ## Software Experience
 ArcGIS Pro\
